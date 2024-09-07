@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "TED Talks Recommender",
+    "version": "1.0",
+    "description": "Recommend TED Talks based on user input.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+       "default_icon": "logo.png"
+    }
+}
+  
